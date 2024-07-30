@@ -1,0 +1,15 @@
+/home/clarindo/TextEditor/bin/Debug/net6.0/TextEditor
+/home/clarindo/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/clarindo/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/clarindo/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/clarindo/TextEditor/bin/Debug/net6.0/ref/TextEditor.dll
+/home/clarindo/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/clarindo/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/clarindo/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache

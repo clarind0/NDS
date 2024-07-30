@@ -1,0 +1,15 @@
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.csproj.AssemblyReference.cache
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.AssemblyInfoInputs.cache
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.AssemblyInfo.cs
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.csproj.CoreCompileInputs.cache
+/home/clarindo/Meuapp/Teste/bin/Debug/net6.0/Teste
+/home/clarindo/Meuapp/Teste/bin/Debug/net6.0/Teste.deps.json
+/home/clarindo/Meuapp/Teste/bin/Debug/net6.0/Teste.runtimeconfig.json
+/home/clarindo/Meuapp/Teste/bin/Debug/net6.0/Teste.dll
+/home/clarindo/Meuapp/Teste/bin/Debug/net6.0/ref/Teste.dll
+/home/clarindo/Meuapp/Teste/bin/Debug/net6.0/Teste.pdb
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.dll
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/ref/Teste.dll
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.pdb
+/home/clarindo/Meuapp/Teste/obj/Debug/net6.0/Teste.genruntimeconfig.cache

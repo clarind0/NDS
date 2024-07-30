@@ -1,0 +1,15 @@
+/home/clarindo/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/clarindo/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/clarindo/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/clarindo/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/clarindo/EditorHtml/bin/Debug/net6.0/ref/EditorHtml.dll
+/home/clarindo/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/clarindo/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/clarindo/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
